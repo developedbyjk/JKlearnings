@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
+body 
+{
+	background-color: #fff5bebd;
+    font-family: 'Space Mono', monospace;
+}
+.container{
+    /* display: block;
+    width: 90%;
+    margin:50px auto; */
+    display: flex;
+    margin: 200px 10%;
+    float: left;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+ 
+}
+
+i{
+    opacity: 0.5;
+}
