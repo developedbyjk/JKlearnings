@@ -14,7 +14,7 @@ body
     align-items: center;
     justify-content: center;
     font-weight: bold;
- 
+ flex-direction: column;
 }
 
 i{
