@@ -11,7 +11,7 @@ body
     display: flex;
     margin: 200px 10%;
     float: left;
-    align-items: center;
+    align-items: flex-start;
     justify-content: center;
     font-weight: bold;
  flex-direction: column;
