@@ -15,6 +15,8 @@ function App() {
         <p>- Never Judge Too Quicky & Never say something when you are angry 😅 - <i>14 jan</i></p>
         <p>- Life is limited to have fun and enjoy 😉 - <i>15 jan</i></p>
         <p>- Playing with pets makes you happpy 😄 - <i>17 jan</i></p>
+        <p>- Dont feel bad when someone try to teach you something! they do, because they care 🤓 - <i>18 jan</i></p>
+        <p>- Uncomforatble question are one which gives you progress!💪 - <i>19 jan</i></p>
     </div>
     </>
   )
