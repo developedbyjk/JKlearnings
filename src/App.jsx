@@ -17,6 +17,7 @@ function App() {
         <p>- Playing with pets makes you happpy 😄 - <i>17 jan</i></p>
         <p>- Dont feel bad when someone try to teach you something! they do, because they care 🤓 - <i>18 jan</i></p>
         <p>- Uncomforatble question are one which gives you progress!💪 - <i>19 jan</i></p>
+        <p>- Life is sometimes unfair. and thants okay🐧 - <i>24 jan</i></p>
     </div>
     </>
   )
