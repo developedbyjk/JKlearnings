@@ -21,6 +21,8 @@ function App() {
          <p>- Try new Foods! They are fun😋 - <i>26 jan</i></p>
          <p>- Things are possible! Step by Step 🎯 - <i>27 jan</i></p>
          <p>- Try thinking other side of coin too🪙 - <i>1 Feb</i></p>
+         <p>- Limited Access Increase the value 💎 - <i>3 Feb</i></p>
+      
         
     </div>
     </>
