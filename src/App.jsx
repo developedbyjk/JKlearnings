@@ -20,6 +20,8 @@ function App() {
         <p>- Life is sometimes unfair. and thants okay🐧 - <i>24 jan</i></p>
          <p>- Try new Foods! They are fun😋 - <i>26 jan</i></p>
          <p>- Things are possible! Step by Step 🎯 - <i>27 jan</i></p>
+         <p>- Try thinking other side of coin too🪙 - <i>1 Feb</i></p>
+        
     </div>
     </>
   )
