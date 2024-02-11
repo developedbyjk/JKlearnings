@@ -22,7 +22,8 @@ function App() {
          <p>- Things are possible! Step by Step 🎯 - <i>27 jan</i></p>
          <p>- Try thinking other side of coin too🪙 - <i>1 Feb</i></p>
          <p>- Limited Access Increase the value 💎 - <i>3 Feb</i></p>
-      
+         <p>- Give 24 hours to yourself before big action 🏈- <i>4 Feb</i></p>
+
         
     </div>
     </>
