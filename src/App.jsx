@@ -23,7 +23,10 @@ function App() {
          <p>- Try thinking other side of coin too🪙 - <i>1 Feb</i></p>
          <p>- Limited Access Increase the value 💎 - <i>3 Feb</i></p>
          <p>- Give 24 hours to yourself before big action 🏈- <i>4 Feb</i></p>
-
+         <p>- Spend Time with your family! they are here for limited time 💖- <i>6 Feb</i></p>
+         <p>- Learn Self Discipline 💪- <i>  8 Feb</i></p>
+         <p>- Learn Art of Listening and Story Telling ✍️- <i>  10 Feb</i></p>
+   
         
     </div>
     </>
