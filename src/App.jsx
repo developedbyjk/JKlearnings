@@ -26,6 +26,7 @@ function App() {
          <p>- Spend Time with your family! they are here for limited time 💖- <i>6 Feb</i></p>
          <p>- Learn Self Discipline 💪- <i>  8 Feb</i></p>
          <p>- Learn Art of Listening and Story Telling ✍️- <i>  10 Feb</i></p>
+         <p>- Say Hello to Random Stangers -🗣️ <i>  17 Feb</i></p>
    
         
     </div>
