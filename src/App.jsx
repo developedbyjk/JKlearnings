@@ -27,6 +27,7 @@ function App() {
          <p>- Learn Self Discipline 💪- <i>  8 Feb</i></p>
          <p>- Learn Art of Listening and Story Telling ✍️- <i>  10 Feb</i></p>
          <p>- Say Hello to Random Stangers -🗣️ <i>  17 Feb</i></p>
+         <p>- Notion is Permanant! 🤍-<i>  19 Feb</i></p>
    
         
     </div>
