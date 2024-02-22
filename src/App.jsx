@@ -28,6 +28,7 @@ function App() {
          <p>- Learn Art of Listening and Story Telling ✍️- <i>  10 Feb</i></p>
          <p>- Say Hello to Random Stangers -🗣️ <i>  17 Feb</i></p>
          <p>- Notion is Permanant! 🤍-<i>  19 Feb</i></p>
+         <p>- Trust Youself First Then others-<i> ❇️ 21 Feb</i></p>
    
         
     </div>
