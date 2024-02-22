@@ -2,16 +2,27 @@ import { useState } from 'react'
 // import reactLogo from './assets/react.svg'
 // import viteLogo from '/vite.svg'
 // import './App.css'
+import {data} from './data'
 
 function App() {
   // const [count, setCount] = useState(0)
+
+  const showData = data.map((item, index) => {
+    return (
+      <div key={index}>
+        <p>{item.text}- <i>{item.date}</i> </p>
+        
+      </div>
+    )
+  })
+
 
   return (
     <>
     <div class="container">
       <h1>#Learnings✨</h1>
       <br/>
-        <p>- we need to have mistakes in life inorder to learn 🎉- <i>13 jan</i></p>
+        {/* <p>- we need to have mistakes in life inorder to learn 🎉- <i>13 jan</i></p>
         <p>- Never Judge Too Quicky & Never say something when you are angry 😅 - <i>14 jan</i></p>
         <p>- Life is limited to have fun and enjoy 😉 - <i>15 jan</i></p>
         <p>- Playing with pets makes you happpy 😄 - <i>17 jan</i></p>
@@ -28,7 +39,9 @@ function App() {
          <p>- Learn Art of Listening and Story Telling ✍️- <i>  10 Feb</i></p>
          <p>- Say Hello to Random Stangers -🗣️ <i>  17 Feb</i></p>
          <p>- Notion is Permanant! 🤍-<i>  19 Feb</i></p>
-         <p>- Trust Youself First Then others-<i> ❇️ 21 Feb</i></p>
+         <p>- Trust Youself First Then others-<i> ❇️ 21 Feb</i></p> */}
+
+         {showData}
    
         
     </div>
