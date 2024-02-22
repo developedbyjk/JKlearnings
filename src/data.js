@@ -64,11 +64,15 @@ export const data = [
         date: "17 Feb"
     },
     {
-        text: "- Notion is Permanant! 🤍-",
+        text: "- Nothing is Permanant! 🤍-",
         date: "19 Feb"
     },
     {
         text: "- Trust Youself First Then others-",
         date: "21 Feb"
+    },
+    {
+        text: "- Work on Yourself First! 🫖-",
+        date: "22 Feb"
     }
 ];
