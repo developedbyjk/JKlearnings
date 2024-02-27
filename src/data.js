@@ -76,7 +76,15 @@ export const data = [
         date: "22 Feb"
     },
     {
-        text: "Be Kind, Be Good to people we are here for limited time! 🌈",
+        text: "- Be Kind, Be Good to people we are here for limited time! 🌈",
         date: "22 Feb"
+    },
+    {
+        text: "- If you dont Measure your progress, you will never know how far you have come! 📏",
+        date: "26 Feb"
+    },
+    {
+        text: "- Learn to control your emotions! 🧠",
+        date: "27 Feb"
     }
 ];
