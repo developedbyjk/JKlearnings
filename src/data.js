@@ -86,5 +86,11 @@ export const data = [
     {
         text: "- Learn to control your emotions! 🧠",
         date: "27 Feb"
+    },
+    {
+        text: "- Time Flies so fast so make use of it! 🕰️",
+        date: "15 April"
     }
+
+
 ];
