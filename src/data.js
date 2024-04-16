@@ -90,6 +90,14 @@ export const data = [
     {
         text: "- Time Flies so fast so make use of it! 🕰️",
         date: "15 April"
+    },
+    {
+        text: "-Think twice before telling something to someone! 🤔",
+        date: "16 April"
+    },
+    {
+        text: "- take immediate action on imp things 🖼️",
+        date: "16 April"
     }
 
 
