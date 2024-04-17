@@ -98,6 +98,10 @@ export const data = [
     {
         text: "- take immediate action on imp things 🖼️",
         date: "16 April"
+    },
+    {
+        text: "- One Thing Trigger another and another and another! 🪨",
+        date: "17 April"
     }
 
 
