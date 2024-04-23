@@ -7,11 +7,10 @@ import {data} from './data'
 function App() {
   // const [count, setCount] = useState(0)
 
-  const showData = data.map((item, index) => {
+  const showData = data.reverse().map((item, index) => {
     return (
       <div key={index}>
         <p>{item.text}- <i>{item.date}</i> </p>
-        
       </div>
     )
   })
