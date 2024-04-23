@@ -102,6 +102,14 @@ export const data = [
     {
         text: "- One Thing Trigger another and another and another! 🪨",
         date: "17 April"
+    },
+    {
+        text: "- Yes! Anything Anything can happen both impossible and possible ❤️‍🩹",
+        date: "23 April"
+    },
+    {
+        text: "- Whatever happens happen for good! 🌈",
+        date: "23 April"
     }
 
 
