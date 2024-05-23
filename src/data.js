@@ -110,7 +110,15 @@ export const data = [
     {
         text: "- Whatever happens happen for good! 🌈",
         date: "23 April"
-    }
+    },
+    {
+        text: "- Ahh its been a month! 🥴👋. by the way learned a lot this whole month..thinking to dump it here✍️" ,
+        date: "23 May"
+    },
+    {
+        text: "- Time flies so fast! 🕰️, make each second count! 🔄️", 
+        date: "23 May"
+    },
 
 
 ];
