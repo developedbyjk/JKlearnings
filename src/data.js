@@ -119,6 +119,10 @@ export const data = [
         text: "- Time flies so fast! 🕰️, make each second count! 🔄️", 
         date: "23 May"
     },
+    {
+        text: "- Even if you connect the charger it doesn't work unti you swith on 🔌", 
+        date: "26 May"
+    },
 
 
 ];
