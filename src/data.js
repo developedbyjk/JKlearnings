@@ -123,6 +123,10 @@ export const data = [
         text: "- Even if you connect the charger it doesn't work unti you swith on 🔌", 
         date: "26 May"
     },
+    {
+        text: "- Try different way... dont just stop and sit! 🚶‍♂️", 
+        date: "26 May"
+    },
 
 
 ];
