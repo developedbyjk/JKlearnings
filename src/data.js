@@ -127,6 +127,10 @@ export const data = [
         text: "- Try different way... dont just stop and sit! 🚶‍♂️", 
         date: "26 May"
     },
+    {
+        text: "- use wifi & Backup data 📶", 
+        date: "30 May"
+    },
 
 
 ];
