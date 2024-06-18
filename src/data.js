@@ -132,5 +132,10 @@ export const data = [
         date: "30 May"
     },
 
+    {
+        text: "- good things are only lear in hard way! 🏋️‍♂️", 
+        date: "18 June"
+    },
+
 
 ];
